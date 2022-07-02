@@ -14,12 +14,12 @@ day_wise.csv - Day wise no. of cases (Doesn't have country level data)
 usacountywise.csv - Day to day county level no. of cases
 
 worldometer_data.csv - Latest data from https://www.worldometers.info/
-Insights
+# Insights
 The Date vs Confirmed cases graph :
 
 Cases have being increased from Feb 2020 to July 2020
 
-image
+![image](https://user-images.githubusercontent.com/89118199/176991045-027d4600-ee24-4179-a335-0068188b65bb.png)
 
 Day wise CONFIRMED, RECOVERED and DEATHS graph :
 
